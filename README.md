@@ -1,6 +1,6 @@
 # STM32 Beginner to Intermediate
 Hands-on STM32 projects covering fundamental to intermediate embedded-systems concepts using **C, STM32 HAL, STM32CubeMX, and STM32CubeIDE**.
-This repository contains my practice assignments and implementations covering **GPIO, polling, interrupts, timers, PWM, UART, ADC, SPI, I2C, EEPROM, sensors, and peripheral integration.
+This repository contains my practice assignments and implementations covering **GPIO, polling, interrupts, timers, PWM, UART, ADC, SPI, I2C, EEPROM, sensors, and peripheral integration**.
 
 ## 🧠 About This Repository
 This repository is a collection of STM32 peripheral assignments implemented as part of my learning journey from beginner to intermediate-level embedded development. The projects focus on understanding how STM32 peripherals work in practical applications rather than only studying them theoretically.
@@ -14,6 +14,23 @@ Each assignment folder contains the question sheet and its corresponding STM32 i
 - `main.c` — Application code implementing the assignment.
 
 The repository is organized so that the **assignment/question PDF and its corresponding implementation are kept together**.
+
+## 🛠️ Hardware & Software
+
+### Microcontroller
+
+**STM32G431MBT6**
+Can use STM32F407 Discovevery Board for Practicing : https://www.st.com/en/evaluation-tools/stm32f4discovery.html
+
+### Development Tools
+
+- STM32CubeMX
+- STM32CubeIDE
+- C
+- STM32 HAL
+- Git / GitHub
+
+> **Recommendation:** STM32CubeIDE and STM32CubeMX are recommended for opening, configuring, and building these projects.
 
 ---
 
