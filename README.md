@@ -51,6 +51,5 @@ A typical project folder contains:
 
 ```text
 Assignment/
-├── Guide.pdf
 ├── *.ioc
 └── main.c
